@@ -1,4 +1,5 @@
 #I made this for educationals purposes
+#I put "," in the URLs
 
 def main():
     os.system('cls')
@@ -40,8 +41,8 @@ def navega():
     driver = webdriver.Chrome(options=options)
 
     driver.set_window_size(400,915)
-    driver.get('https://www.cineplanet.com.pe/autenticacion/login')
-    driver.get('https://www.cineplanet.com.pe/autenticacion/login')
+    driver.get('https://www.c,i,n,e,pl,anet.com.pe/autenticacion/login')
+    driver.get('https://www.c,i,n,e,pl,anet.com.pe/autenticacion/login')
     driver.set_window_size(400,915)
     WebDriverWait(driver, 15).until(EC.element_to_be_clickable((By.CSS_SELECTOR,
                                                                 '.button.call-to-action.call-to-action_rounded-solid.call-to-action_pink-solid.call-to-action_medium.call-to-action_rounded-solid.call-to-action_blue-solid.call-to-action_medium'))).click()
