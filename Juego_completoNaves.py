@@ -10,6 +10,9 @@ import io
 import shutil
 import time
 
+#This is the classic game to shoot bullets at aliens that are approaching you to destroy you.
+
+
 
 #------------------DEFINIRA LA POSICION DONDE SE MOSTRARA LA PANTALLA CREADA POR PYGAME SOBRE LA PANTALLA DEL SISTEMA----------
 if True:
