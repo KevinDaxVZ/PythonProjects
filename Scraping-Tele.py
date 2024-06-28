@@ -1,4 +1,5 @@
 #I made this for educational purposes
+#I put "," in the URLs
 
 def main():
     os.system('cls')
@@ -40,8 +41,8 @@ def navega():
     # options.add_experimental_option("prefs", {"credentials_enable_service": False})
     driver = Driver(headless=True)
     driver.set_window_size(400, 915)
-    driver.get('https://teleticket.com.pe/Account/SignIn')
-    driver.get('https://teleticket.com.pe/Account/SignIn')
+    driver.get('https://t,e,l,et,icket.com.pe/Account/SignIn')
+    driver.get('https://tel,et,ic,ket.com.pe/Account/SignIn')
     driver.set_window_size(400, 915)
 
     return driver
@@ -66,10 +67,10 @@ def check_login(driver):
     while time.time() - start_time < timeout:
         try:
             current_url = driver.current_url
-            if current_url == "https://teleticket.com.pe/Account/SignIn":
+            if current_url == "https://te,le,tick,et.com.pe/Account/SignIn":
                 return False
             else:
-                driver.get('https://teleticket.com.pe/Cliente/MisETickets')
+                driver.get('https://te,leti,ck,et.com.pe/Cliente/MisETickets')
                 return True
         except TimeoutException:
             pass
