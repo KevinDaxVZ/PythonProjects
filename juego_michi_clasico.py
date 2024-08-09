@@ -51,7 +51,8 @@ def jugada(jugador):
 
 
 def celebrar(jugador):
-    print('!!!FELICIDADES {} GANASTE!!!'.format(jugador))
+    print('')
+    print('\t!!!FELICIDADES {} GANASTE!!!'.format(jugador))
     dibujar_juego()
     return False
 
@@ -91,7 +92,7 @@ if __name__=='__main__':
     player2 = input("Ingrese el nombre del jugador 2: ")
 
     #SE DEFINEN SUS FICHAS
-    jugadores = {player1: 'x', player2: 'O'}
+    jugadores = {player1: 'X', player2: '0'}
 
     #SE CONSTRUYE LA MATRIZ
     game_inicio = [['_' for i in range(4)] for j in range(4)]
