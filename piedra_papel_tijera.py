@@ -67,21 +67,20 @@ def empezar_juego():
     except:
         print('No ingreso un numero....')
 
+#AQUI SE DEFINE EL CAMBIO DE COLOR DE LA TERMINAL
+def background_color(m=0,n='f'):
+    lista_i = [i for i in range(10)] + ['a','b','c','d','e','f'] 
+    while True:    
+        m = random.choice(lista_i)    #ESTO DEFINE EL COLOR DEL FONDO DE PANTALLA, COMENTA PARA DESACTIVAR
+        n = random.choice(lista_i)    #ESTO DEFINE EL COLOR DEL TEXTO EN LA TERMINAL, COMENTA PARA DESACTIVAR
 
-def background_color():
-
-    while True:
-        lista_i = [i for i in range(10)] + ['a','b','c','d','e','f']
-        i = random.choice(lista_i)
-        j = random.choice(lista_i)
-
-        if i == j:
+        if m == n:
             continue
         else:
             break
 
 
-    color_bg = f'color {i}{j}'
+    color_bg = f'color {m}{n}'
     os.system(color_bg)
 
 
@@ -101,7 +100,7 @@ if __name__ == "__main__":
         limpiar_pantalla()
 
         if again.lower() == 's':
-            background_color() if platform.system() == 'Windows' else ''
+            background_color() if platform.system() == 'Windows' else ''        #COMENTA ESTA LINEA SI NO QUIERES QUE CAMBIE DE COLOR LA TERMINAL
             continue
 
         else:
