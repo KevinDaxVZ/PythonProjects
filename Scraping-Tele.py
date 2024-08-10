@@ -1,5 +1,6 @@
 #I made this for educational purposes
 #I put "," in the URLs
+#PERMITE HACERLE FUERZA BRUTA CON USUARIOS,PASSWORD A TELETICKET
 
 def main():
     os.system('cls')
