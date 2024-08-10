@@ -1,5 +1,6 @@
 #I made this for educationals purposes
 #This code bypass akami and cloudflare for scraping attack
+#PERMITE HACERLE FUERZA BRUTA CON USUARIOS,PASSWORD A FALLABELA
 
 def main():
     os.system('cls')
