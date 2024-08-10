@@ -1,5 +1,6 @@
 #I made this for educationals purposes
 #I put "," in the URLs
+#PERMITE HACERLE FUERZA BRUTA CON USUARIOS,PASSWORD A CINEPLANET, y obtiene al final si tiene entradas o no!!!
 
 def main():
     os.system('cls')
