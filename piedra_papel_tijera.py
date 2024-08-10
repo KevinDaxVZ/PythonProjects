@@ -1,6 +1,7 @@
 #JUEGO DE PIEDRA, PAPEL Y TIJERA
 #Autor: Kevin Dax Victorio Zanabria
 #INSTALE COLORAMA PARA MAS DINAMISMO    # en su terminal escriba 'pip install colorama'
+#EJECUTE EN LA TERMINAL DE WINDOWS PARA MAS PLACER .... :D
 
 import platform
 import random
