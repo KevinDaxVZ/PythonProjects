@@ -1,7 +1,8 @@
 #!/bin/bash
 #AUTHOR: Kevin Dax Victorio Zanabria
 
-#Este script descarga de manera rapida y en la mejor calidad una playlist de youtube
+#Este script descarga de manera rapida y en la mejor calidad una playlist de youtube publica
+#Ejecutalo con sudo
 
 #py3 por que necesitamos pip
 #yt-dlp esta herramienta nos permite descargar videos de listas
@@ -48,4 +49,4 @@ calidad=${calidades[opcion]}
 
 clear
 echo -e "***********DESCARGANDO**********\n\t-CALIDAD=$calidad\n\tURL=$URL  "
-yt-dlp -f 'bestvideo[height<=?$calidad]+bestaudio/best[height<=?$calidad]' "$URL"
+yt-dlp -f "bestvideo[height<=?$calidad]+bestaudio/best[height<=?$calidad]" "$URL"
