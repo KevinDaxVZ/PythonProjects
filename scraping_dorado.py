@@ -1,5 +1,6 @@
 #!/bin/python3
 #AUTOR: KevinDaxVZ
+#Realizado con fines eticos
 
 import os
 import subprocess
