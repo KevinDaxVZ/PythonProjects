@@ -1,0 +1,450 @@
+Mozilla/5.0 (Knoppix; Linux i686; rv:125.0) Gecko/20100101 Firefox/125.0
+Mozilla/5.0 (Linux x86_64; rv:114.0) Gecko/20100101 Firefox/114.0
+Mozilla/5.0 (SS; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0
+Mozilla/5.0 (X11; Fedora; Linux i686; rv:60.0) Gecko/20100101 Firefox/60.0
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:114.0) Gecko/20100101 Firefox/114.0
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+Mozilla/5.0 (X11; Linux aarch64; rv:109.0) Gecko/20100101 Firefox/115.0
+Mozilla/5.0 (X11; Linux aarch64; rv:11.0) Gecko/20100101 Firefox/11.0
+Mozilla/5.0 (X11; Linux aarch64; rv:115.0) Gecko/20100101 Firefox/115.11.0
+Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/113.0
+Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/117.0
+Mozilla/5.0 (X11; Linux i686; rv:114.0) Gecko/20100101 Firefox/114.0
+Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Mozilla/5.0 (X11; Linux x86_64; rv:106.0) Gecko/20100101 Firefox/106.0
+Mozilla/5.0 (X11; Linux x86_64; rv:107.0) Gecko/20100101 Firefox/107.0
+Mozilla/5.0 (X11; Linux x86_64; rv:108.0) Gecko/20100101 Firefox/108.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/110.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/117.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/118.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/119.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/126.0
+Mozilla/5.0 (X11; Linux x86_64; rv:120.0) Gecko/20100101 Firefox/120.0
+Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0
+Mozilla/5.0 (X11; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0
+Mozilla/5.0 (X11; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0
+Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0
+Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0
+Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0
+Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Mozilla/5.0 (X11; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0
+Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0
+Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0
+Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+Mozilla/5.0 (X11; Linux x86_64; rv:83.0) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0 SeaMonkey/2.53.18.2
+Mozilla/5.0 (X11; Linux x86_64; rv:95.0) Gecko/20100101 Firefox/95.0
+Mozilla/5.0 (X11; Linux x86_64; rv:96.0) Gecko/20100101 Firefox/96.0
+Mozilla/5.0 (X11; Linux x86_64; rv:98.0) Gecko/20100101 Firefox/98.0
+Mozilla/5.0 (X11; Linux x86_64; rv:99.0) Gecko/20100101 Firefox/99.0
+Mozilla/5.0 (X11; U; Linux i686; de; rv:1.8.0.11) Gecko/20070327 Ubuntu/dapper-security Firefox/1.5.0.11
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.6) Gecko/20060905 Fedora/1.5.0.6-10 Firefox/1.5.0.6 pango-text
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.2) Gecko/2008110715 ASPLinux/3.0.2-3.0.120asp Firefox/3.0.2
+Mozilla/5.0 (X11; U; Linux x86_64; fr; rv:1.9.0.14) Gecko/2009090216 Ubuntu/8.04 (hardy) Firefox/3.0.14
+Mozilla/5.0 (Linux i562 x86_64) Gecko/20130401 Firefox/52.7
+Mozilla/5.0 (Linux i643 ) Gecko/20100101 Firefox/49.5
+Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/73.8
+Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/69.4
+Mozilla/5.0 (Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Mozilla/5.0 (Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+Mozilla/5.0 (Linux; Linux i552 x86_64; en-US) Gecko/20100101 Firefox/48.0
+Mozilla/5.0 (Linux; Linux i656 x86_64) Gecko/20100101 Firefox/50.8
+Mozilla/5.0 (Linux; Linux i681 ; en-US) Gecko/20100101 Firefox/52.8
+Mozilla/5.0 (Linux; Linux x86_64) Gecko/20100101 Firefox/62.8
+Mozilla/5.0 (Linux; Linux x86_64) Gecko/20130401 Firefox/73.5
+Mozilla/5.0 (Linux; Linux x86_64; en-US) Gecko/20130401 Firefox/61.0
+Mozilla/5.0 (Linux; U; Linux i553 ) Gecko/20130401 Firefox/63.3
+Mozilla/5.0 (Linux; U; Linux i576 x86_64; en-US) Gecko/20130401 Firefox/63.6
+Mozilla/5.0 (Linux; U; Linux i655 ; en-US) Gecko/20100101 Firefox/49.1
+Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/56.2
+Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/69.6
+Mozilla/5.0 (U; Linux i653 x86_64; en-US) Gecko/20100101 Firefox/64.5
+Mozilla/5.0 (U; Linux i670 x86_64; en-US) Gecko/20100101 Firefox/46.3
+Mozilla/5.0 (U; Linux x86_64) Gecko/20130401 Firefox/67.2
+Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/56.2
+Mozilla/5.0 (Wayland like X11; Linux x86_64; rv:129.0esr) Gecko/20161111 Firefox/129.0esr
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:94.0) Gecko/20100101 Firefox/95.0
+Mozilla/5.0 (X11; Linux armv7l; rv:102.0) Gecko/20100101 Firefox/102.0
+Mozilla/5.0 (X11; Linux i686; U; en; rv:1.8.0) Gecko/20060728 Firefox/1.5.0
+Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/115.0
+Mozilla/5.0 (X11; Linux i686; rv:127.0) Gecko/20100101 Firefox/127.0
+Mozilla/5.0 (X11; Linux i686; rv:128.0) Gecko/20100101 Firefox/128.0
+Mozilla/5.0 (X11; Linux i686; rv:79.0) Gecko/20100101 Firefox/79.0
+Mozilla/5.0 (X11; Linux x86_64; rv:103.0) Gecko/20100101 Firefox/103.0
+Mozilla/5.0 (X11; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0
+Mozilla/5.0 (X11; Linux x86_64; rv:116.0) Gecko/20100101 Firefox/116.0
+Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0
+Mozilla/5.0 (X11; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0
+Mozilla/5.0 (X11; Linux x86_64; rv:90.0) Gecko/20100101 Firefox/90.0
+Mozilla/5.0 (X11; U; Linux i686; de; rv:1.8.0.8) Gecko/20061025 Firefox/1.5.0.8
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.8) Gecko/20050610 Firefox/1.0.4 (Debian package 1.0.4-3)
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.11) Gecko/20071201 Firefox/2.0.0.11
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.6) Gecko/2009020407 Firefox/3.0.4 (Debian-3.0.6-1)
+mozilla/5.0 (linux i564 ; en-us) gecko/20100101 firefox/59.7
+mozilla/5.0 (linux i644 x86_64; en-us) gecko/20130401 firefox/45.5
+mozilla/5.0 (linux x86_64; en-us) gecko/20100101 firefox/68.5
+mozilla/5.0 (linux; linux i675 x86_64) gecko/20130401 firefox/64.3
+mozilla/5.0 (linux; linux x86_64) gecko/20100101 firefox/62.1
+mozilla/5.0 (linux; linux x86_64; en-us) gecko/20100101 firefox/72.1
+mozilla/5.0 (linux; u; linux i555 x86_64; en-us) gecko/20100101 firefox/66.9
+mozilla/5.0 (linux; u; linux x86_64; en-us) gecko/20100101 firefox/55.3
+mozilla/5.0 (linux; u; linux x86_64; en-us) gecko/20100101 firefox/69.6
+Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/50.9
+Mozilla/5.0 (Linux; Linux i572 ; en-US) Gecko/20130401 Firefox/49.1
+Mozilla/5.0 (Linux; Linux x86_64) Gecko/20130401 Firefox/45.6
+Mozilla/5.0 (Linux; U; Linux i584 ) Gecko/20100101 Firefox/62.6
+Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/56.3
+Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/69.5
+Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/46.5
+Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/60.6
+Mozilla/5.0 (U; Linux i650 x86_64; en-US) Gecko/20100101 Firefox/71.6
+Mozilla/5.0 (U; Linux x86_64) Gecko/20100101 Firefox/66.6
+Mozilla/5.0 (U; Linux x86_64) Gecko/20130401 Firefox/52.3
+Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/72.4
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.2) Gecko/2008092313 Ubuntu/8.04 (hardy) Firefox/3.0.2
+mozilla/5.0 (linux i542 ) gecko/20100101 firefox/60.3
+mozilla/5.0 (linux i560 ) gecko/20100101 firefox/64.2
+mozilla/5.0 (linux i562 x86_64) gecko/20130401 firefox/52.7
+mozilla/5.0 (linux i581 x86_64; en-us) gecko/20100101 firefox/67.2
+mozilla/5.0 (linux i682 x86_64; en-us) gecko/20100101 firefox/68.3
+mozilla/5.0 (linux x86_64) gecko/20100101 firefox/63.2
+mozilla/5.0 (linux x86_64) gecko/20100101 firefox/68.0
+mozilla/5.0 (linux x86_64) gecko/20100101 firefox/71.8
+mozilla/5.0 (linux x86_64) gecko/20100101 firefox/72.9
+mozilla/5.0 (linux x86_64; en-us) gecko/20100101 firefox/69.3
+mozilla/5.0 (linux; linux i552 x86_64; en-us) gecko/20100101 firefox/48.0
+mozilla/5.0 (linux; linux i640 x86_64) gecko/20100101 firefox/53.6
+mozilla/5.0 (linux; linux i652 ; en-us) gecko/20130401 firefox/46.1
+mozilla/5.0 (linux; linux i661 x86_64) gecko/20100101 firefox/52.5
+mozilla/5.0 (linux; linux x86_64) gecko/20130401 firefox/45.6
+mozilla/5.0 (linux; linux x86_64) gecko/20130401 firefox/73.5
+mozilla/5.0 (linux; linux x86_64; en-us) gecko/20130401 firefox/61.0
+mozilla/5.0 (linux; u; linux i553 ) gecko/20130401 firefox/63.3
+mozilla/5.0 (linux; u; linux i561 x86_64) gecko/20100101 firefox/49.5
+mozilla/5.0 (linux; u; linux i570 ; en-us) gecko/20100101 firefox/55.9
+mozilla/5.0 (linux; u; linux i581 x86_64; en-us) gecko/20130401 firefox/52.9
+mozilla/5.0 (linux; u; linux i584 ) gecko/20100101 firefox/62.6
+mozilla/5.0 (linux; u; linux i650 x86_64; en-us) gecko/20100101 firefox/48.1
+mozilla/5.0 (linux; u; linux x86_64) gecko/20100101 firefox/54.9
+mozilla/5.0 (linux; u; linux x86_64) gecko/20100101 firefox/56.3
+mozilla/5.0 (linux; u; linux x86_64) gecko/20130401 firefox/71.7
+mozilla/5.0 (linux; u; linux x86_64; en-us) gecko/20130401 firefox/49.5
+mozilla/5.0 (linux; u; linux x86_64; en-us) gecko/20130401 firefox/66.9
+mozilla/5.0 (linux; u; linux x86_64; en-us) gecko/20130401 firefox/73.1
+mozilla/5.0 (u; linux i542 x86_64; en-us) gecko/20130401 firefox/66.0
+mozilla/5.0 (u; linux i574 ) gecko/20100101 firefox/53.2
+mozilla/5.0 (u; linux i645 x86_64) gecko/20130401 firefox/66.2
+mozilla/5.0 (u; linux i653 x86_64; en-us) gecko/20100101 firefox/64.5
+mozilla/5.0 (u; linux i665 x86_64) gecko/20100101 firefox/58.7
+mozilla/5.0 (u; linux i670 x86_64; en-us) gecko/20100101 firefox/46.3
+mozilla/5.0 (u; linux x86_64) gecko/20100101 firefox/53.0
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20100101 firefox/60.9
+Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0
+mozilla/5.0 (linux i544 ) gecko/20130401 firefox/55.0
+mozilla/5.0 (linux i546 ) gecko/20100101 firefox/46.4
+mozilla/5.0 (linux i640 x86_64) gecko/20100101 firefox/49.3
+mozilla/5.0 (linux i640 x86_64) gecko/20100101 firefox/74.2
+mozilla/5.0 (linux x86_64) gecko/20100101 firefox/57.7
+mozilla/5.0 (linux x86_64) gecko/20100101 firefox/71.1
+mozilla/5.0 (linux x86_64) gecko/20100101 firefox/73.8
+mozilla/5.0 (linux x86_64) gecko/20130401 firefox/55.1
+mozilla/5.0 (linux x86_64; en-us) gecko/20100101 firefox/48.1
+mozilla/5.0 (linux x86_64; en-us) gecko/20100101 firefox/50.9
+mozilla/5.0 (linux x86_64; en-us) gecko/20100101 firefox/60.0
+mozilla/5.0 (linux; linux i552 ; en-us) gecko/20100101 firefox/71.6
+mozilla/5.0 (linux; linux i554 ) gecko/20130401 firefox/57.2
+mozilla/5.0 (linux; linux i580 ) gecko/20130401 firefox/55.8
+mozilla/5.0 (linux; linux i640 ; en-us) gecko/20130401 firefox/66.1
+mozilla/5.0 (linux; linux i646 ) gecko/20130401 firefox/65.7
+mozilla/5.0 (linux; linux i652 x86_64) gecko/20130401 firefox/60.1
+mozilla/5.0 (linux; linux i680 x86_64; en-us) gecko/20100101 firefox/63.3
+mozilla/5.0 (linux; linux i681 ; en-us) gecko/20100101 firefox/52.8
+mozilla/5.0 (linux; linux x86_64) gecko/20100101 firefox/48.6
+mozilla/5.0 (linux; linux x86_64) gecko/20100101 firefox/72.5
+mozilla/5.0 (linux; linux x86_64; en-us) gecko/20100101 firefox/46.7
+mozilla/5.0 (linux; linux x86_64; en-us) gecko/20100101 firefox/67.3
+mozilla/5.0 (linux; linux x86_64; en-us) gecko/20130401 firefox/68.6
+mozilla/5.0 (linux; u; linux i551 ) gecko/20100101 firefox/53.0
+mozilla/5.0 (linux; u; linux i560 ; en-us) gecko/20130401 firefox/61.0
+mozilla/5.0 (linux; u; linux i564 x86_64) gecko/20130401 firefox/66.3
+mozilla/5.0 (linux; u; linux i641 x86_64; en-us) gecko/20100101 firefox/58.1
+mozilla/5.0 (linux; u; linux i655 ; en-us) gecko/20100101 firefox/49.1
+mozilla/5.0 (linux; u; linux i661 x86_64; en-us) gecko/20100101 firefox/47.3
+mozilla/5.0 (linux; u; linux i661 x86_64; en-us) gecko/20130401 firefox/62.8
+mozilla/5.0 (linux; u; linux x86_64) gecko/20100101 firefox/51.9
+mozilla/5.0 (linux; u; linux x86_64) gecko/20100101 firefox/59.5
+mozilla/5.0 (linux; u; linux x86_64) gecko/20130401 firefox/56.5
+mozilla/5.0 (u; linux i564 ) gecko/20100101 firefox/70.5
+mozilla/5.0 (u; linux i564 x86_64) gecko/20100101 firefox/48.1
+mozilla/5.0 (u; linux i566 ) gecko/20100101 firefox/62.3
+mozilla/5.0 (u; linux i566 x86_64; en-us) gecko/20100101 firefox/65.6
+mozilla/5.0 (u; linux i661 ) gecko/20100101 firefox/54.9
+mozilla/5.0 (u; linux i666 ) gecko/20100101 firefox/55.0
+mozilla/5.0 (u; linux i666 ; en-us) gecko/20100101 firefox/70.7
+mozilla/5.0 (u; linux i681 x86_64; en-us) gecko/20100101 firefox/60.3
+mozilla/5.0 (u; linux x86_64) gecko/20100101 firefox/59.9
+mozilla/5.0 (u; linux x86_64) gecko/20100101 firefox/66.6
+mozilla/5.0 (u; linux x86_64) gecko/20130401 firefox/52.3
+mozilla/5.0 (u; linux x86_64) gecko/20130401 firefox/67.2
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20100101 firefox/49.1
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20100101 firefox/50.9
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20100101 firefox/69.7
+Mozilla/5.0 (Linux i640 x86_64) Gecko/20100101 Firefox/74.2
+Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20130401 Firefox/66.9
+mozilla/5.0 (linux i573 ; en-us) gecko/20130401 firefox/45.7
+mozilla/5.0 (linux i586 x86_64) gecko/20130401 firefox/72.6
+mozilla/5.0 (linux i671 ; en-us) gecko/20100101 firefox/55.1
+mozilla/5.0 (linux i676 x86_64; en-us) gecko/20100101 firefox/66.4
+mozilla/5.0 (linux x86_64) gecko/20100101 firefox/46.9
+mozilla/5.0 (linux x86_64) gecko/20100101 firefox/52.1
+mozilla/5.0 (linux x86_64; en-us) gecko/20100101 firefox/64.1
+mozilla/5.0 (linux x86_64; en-us) gecko/20100101 firefox/67.3
+mozilla/5.0 (linux x86_64; en-us) gecko/20130401 firefox/48.9
+mozilla/5.0 (linux x86_64; en-us) gecko/20130401 firefox/52.8
+mozilla/5.0 (linux x86_64; en-us) gecko/20130401 firefox/59.4
+mozilla/5.0 (linux; linux i562 x86_64; en-us) gecko/20100101 firefox/73.8
+mozilla/5.0 (linux; linux i573 x86_64; en-us) gecko/20100101 firefox/47.2
+mozilla/5.0 (linux; linux i656 x86_64) gecko/20100101 firefox/50.8
+mozilla/5.0 (linux; linux i671 x86_64; en-us) gecko/20100101 firefox/47.1
+mozilla/5.0 (linux; linux i681 ) gecko/20130401 firefox/53.3
+mozilla/5.0 (linux; linux x86_64) gecko/20100101 firefox/51.7
+mozilla/5.0 (linux; linux x86_64) gecko/20100101 firefox/60.9
+mozilla/5.0 (linux; linux x86_64) gecko/20100101 firefox/61.9
+mozilla/5.0 (linux; linux x86_64) gecko/20100101 firefox/62.5
+mozilla/5.0 (linux; linux x86_64) gecko/20100101 firefox/62.8
+mozilla/5.0 (linux; linux x86_64) gecko/20100101 firefox/66.4
+mozilla/5.0 (linux; linux x86_64; en-us) gecko/20100101 firefox/64.7
+mozilla/5.0 (linux; u; linux i574 x86_64) gecko/20100101 firefox/46.5
+mozilla/5.0 (linux; u; linux i576 x86_64; en-us) gecko/20130401 firefox/63.6
+mozilla/5.0 (linux; u; linux i654 x86_64) gecko/20100101 firefox/47.4
+mozilla/5.0 (linux; u; linux i674 x86_64) gecko/20100101 firefox/67.8
+mozilla/5.0 (linux; u; linux i680 x86_64) gecko/20100101 firefox/61.4
+mozilla/5.0 (linux; u; linux x86_64) gecko/20100101 firefox/45.0
+mozilla/5.0 (linux; u; linux x86_64) gecko/20100101 firefox/50.6
+mozilla/5.0 (linux; u; linux x86_64) gecko/20100101 firefox/69.5
+mozilla/5.0 (linux; u; linux x86_64; en-us) gecko/20100101 firefox/46.5
+mozilla/5.0 (linux; u; linux x86_64; en-us) gecko/20100101 firefox/60.6
+mozilla/5.0 (u; linux i566 x86_64) gecko/20100101 firefox/63.3
+mozilla/5.0 (u; linux i576 ; en-us) gecko/20100101 firefox/51.1
+mozilla/5.0 (u; linux i650 ; en-us) gecko/20100101 firefox/71.5
+mozilla/5.0 (u; linux i672 x86_64; en-us) gecko/20100101 firefox/55.8
+mozilla/5.0 (u; linux i673 x86_64; en-us) gecko/20100101 firefox/57.7
+mozilla/5.0 (u; linux i685 ; en-us) gecko/20130401 firefox/48.1
+mozilla/5.0 (u; linux x86_64) gecko/20100101 firefox/73.5
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20100101 firefox/51.5
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20100101 firefox/52.2
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20100101 firefox/54.1
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20100101 firefox/56.2
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20100101 firefox/57.1
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20100101 firefox/57.3
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20100101 firefox/74.2
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20100101 firefox/74.7
+Mozilla/5.0 (Knoppix; Linux i686; rv:122.0) Gecko/20100101 Firefox/122.0
+Mozilla/5.0 (Linux i573 ; en-US) Gecko/20130401 Firefox/45.7
+Mozilla/5.0 (Linux x86_64; en-US) Gecko/20130401 Firefox/48.9
+Mozilla/5.0 (Linux; Linux i552 ; en-US) Gecko/20100101 Firefox/71.6
+Mozilla/5.0 (Linux; Linux i640 x86_64) Gecko/20100101 Firefox/53.6
+Mozilla/5.0 (Linux; U; Linux i561 x86_64) Gecko/20100101 Firefox/49.5
+Mozilla/5.0 (Linux; U; Linux i570 ; en-US) Gecko/20100101 Firefox/55.9
+Mozilla/5.0 (Linux; U; Linux i674 x86_64) Gecko/20100101 Firefox/67.8
+Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20100101 Firefox/45.0
+Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20130401 Firefox/56.5
+Mozilla/5.0 (Linux; U; Linux x86_64) Gecko/20130401 Firefox/71.7
+Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20130401 Firefox/73.1
+Mozilla/5.0 (U; Linux i650 ; en-US) Gecko/20100101 Firefox/71.5
+Mozilla/5.0 (U; Linux i661 ) Gecko/20100101 Firefox/54.9
+Mozilla/5.0 (U; Linux i680 ) Gecko/20130401 Firefox/61.9
+Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/51.5
+Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/57.3
+Mozilla/5.0 (X11; Gentoo; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/121.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/124.0
+Mozilla/5.0 (X11; Linux x86_64; rv:82.0) Gecko/20100101 Firefox/82.0
+Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 SeaMonkey/2.53.18.2
+Mozilla/5.0 (ZZ; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0
+mozilla/5.0 (linux i554 ) gecko/20130401 firefox/53.4
+mozilla/5.0 (linux i643 ) gecko/20100101 firefox/49.5
+mozilla/5.0 (linux i653 ) gecko/20100101 firefox/49.8
+mozilla/5.0 (linux i654 ; en-us) gecko/20100101 firefox/70.0
+mozilla/5.0 (linux x86_64) gecko/20100101 firefox/50.8
+mozilla/5.0 (linux x86_64) gecko/20100101 firefox/60.3
+mozilla/5.0 (linux x86_64; en-us) gecko/20100101 firefox/69.4
+mozilla/5.0 (linux x86_64; en-us) gecko/20100101 firefox/73.0
+mozilla/5.0 (linux; linux i572 ; en-us) gecko/20130401 firefox/49.1
+mozilla/5.0 (linux; linux i676 x86_64) gecko/20100101 firefox/48.7
+mozilla/5.0 (linux; linux x86_64) gecko/20100101 firefox/54.3
+mozilla/5.0 (linux; linux x86_64) gecko/20100101 firefox/63.1
+mozilla/5.0 (linux; linux x86_64) gecko/20100101 firefox/74.9
+mozilla/5.0 (linux; u; linux i640 ; en-us) gecko/20100101 firefox/71.9
+mozilla/5.0 (linux; u; linux x86_64) gecko/20100101 firefox/56.2
+mozilla/5.0 (linux; u; linux x86_64) gecko/20100101 firefox/64.1
+mozilla/5.0 (linux; u; linux x86_64; en-us) gecko/20130401 firefox/74.5
+mozilla/5.0 (u; linux i540 x86_64; en-us) gecko/20100101 firefox/66.2
+mozilla/5.0 (u; linux i546 ; en-us) gecko/20100101 firefox/69.1
+mozilla/5.0 (u; linux i584 ) gecko/20100101 firefox/72.5
+mozilla/5.0 (u; linux i650 x86_64; en-us) gecko/20100101 firefox/71.6
+mozilla/5.0 (u; linux i680 ) gecko/20130401 firefox/61.9
+mozilla/5.0 (u; linux x86_64) gecko/20130401 firefox/72.4
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20100101 firefox/72.4
+mozilla/5.0 (u; linux x86_64; en-us) gecko/20130401 firefox/66.1
+Mozilla/5.0 (Fedora; Linux i686; rv:120.0) Gecko/20100101 Firefox/120.0
+Mozilla/5.0 (Linux i644 x86_64; en-US) Gecko/20130401 Firefox/45.5
+Mozilla/5.0 (Linux x86_64) Gecko/20100101 Firefox/52.1
+Mozilla/5.0 (Linux x86_64) Gecko/20130401 Firefox/55.1
+Mozilla/5.0 (Linux x86_64; en-US) Gecko/20100101 Firefox/60.0
+Mozilla/5.0 (Linux; U; Linux i661 x86_64; en-US) Gecko/20130401 Firefox/62.8
+Mozilla/5.0 (Linux; U; Linux x86_64; en-US) Gecko/20100101 Firefox/55.3
+Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/49.1
+Mozilla/5.0 (U; Linux x86_64; en-US) Gecko/20100101 Firefox/74.2
+Mozilla/5.0 (X11; AOSC OS; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:100.0) Gecko/20100101 Firefox/100.0
+Mozilla/5.0 (X11; Linux AMD64) Gecko Firefox/5.0
+Mozilla/5.0 (X11; Linux armv7l; rv:109.0) Gecko/20100101 Firefox/115.0
+Mozilla/5.0 (X11; Linux i686) Gecko/20061911 Firefox/121.0
+Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/3035-01-08 13:43:36.905773 Firefox/3.8
+Mozilla/5.0 (X11; Linux i686; rv:12.0) Gecko/20120502 Firefox/12.0 SeaMonkey/2.9.1
+Mozilla/5.0 (X11; Linux i686; rv:20.0) Gecko/20100101 Firefox/20.0
+Mozilla/5.0 (X11; Linux i686; rv:28.0) Gecko/20100101 Firefox/28.0
+Mozilla/5.0 (X11; Linux i686; rv:32.0) Gecko/20100101 Firefox/32.0
+Mozilla/5.0 (X11; Linux i686; rv:49.0) Gecko/20100101 Firefox/49.0 SeaMonkey/2.46
+Mozilla/5.0 (X11; Linux i686; rv:69.0) Gecko/20100101 Firefox/69.0
+Mozilla/5.0 (X11; Linux i686; rv:78.0) Gecko/20100101 Firefox/78.0
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2553-07-29 03:04:10.516766 Firefox/3.8
+Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/8049-12-12 22:41:35.168274 Firefox/3.8
+Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20160214 Firefox/102.0
+Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0
+Mozilla/5.0 (X11; Linux x86_64; rv:40.0) Gecko/20100101 Firefox/40.0
+Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0; on behalf of 177.73.70.151
+Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 FirePHP/0.5
+Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 Firefox/5.0
+Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0 SeaMonkey/2.49.5
+Mozilla/5.0 (X11; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+Mozilla/5.0 (X11; Linux x86_64; rv:79.0) Gecko/20100101 Firefox/79.0
+Mozilla/5.0 (X11; Linux x86_64; rv:85.0) Gecko/20100101 Firefox/85.0
+Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0 SeaMonkey/2.53.15
+Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0 SeaMonkey/2.53.18
+Mozilla/5.0 (X11; Linux x86_64; rv:91.0; b:"09~F3S8AE9+B_1n6HMJ!") Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Linux x86_64; rv:91.0; b:"VAl1<FkQB<RcQhh`Tu2x") Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Linux) Gecko Firefox/5.0
+Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0
+Mozilla/5.0 (X11; U; Linux i686 (x86_64); en-US; rv:1.8.0.9) Gecko/20061219 Fedora/1.5.0.9-1.fc6 Firefox/1.5.0.9 pango-text
+Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:1.8.0.3) Gecko/20060426 Firefox/1.5.0.3
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040614 Firefox/0.8
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.4) Gecko/20060508
+Mozilla/5.0 (X11; U; Linux i686; pt-BR; rv:1.8.0.4) Gecko/20060608 Ubuntu/dapper-security Firefox/1.5.0.4
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.0.12) Gecko/20080419 CentOS/1.5.0.12-0.15.el4.centos Firefox/1.5.0.12 pango-text
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.3) Gecko/20091020 Linux Mint/8 (Helena) Firefox/3.5.3
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.9) Gecko/20100915 Gentoo Firefox/3.6.9
+mozilla/5.0 (linux; u; linux x86_64) gecko/20130401 firefox/68.0
+Mozilla/5.0 (X11; Linux i586; rv:31.0) Gecko/20100101 Firefox/31.0
+Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0
+Mozilla/5.0 (X11; Linux i686; rv:46.0) Gecko/20100101 Firefox/46.0
+Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20100101 Firefox/6.0
+Mozilla/5.0 (X11; Linux i686; rv:82.0) Gecko/20100101 Firefox/82.0
+Mozilla/5.0 (X11; Linux i686; rv:83.0) Gecko/20100101 Firefox/83.0
+Mozilla/5.0 (X11; Linux i686; rv:83.1) Gecko/20100101 Firefox/83.1
+Mozilla/5.0 (X11; Linux i686; rv:84.1) Gecko/20100101 Firefox/84.1
+Mozilla/5.0 (X11; Linux i686; rv:85.1) Gecko/20100101 Firefox/85.1
+Mozilla/5.0 (X11; Linux i686; rv:91.0) Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Linux x86_64) Gecko Firefox/5.0
+Mozilla/5.0 (X11; Linux x86_64; en-US; rv:109.0) Gecko/20102209 Firefox/109.0
+Mozilla/5.0 (X11; Linux x86_64; rv:10.0) Gecko/20100101 Firefox/10.0
+Mozilla/5.0 (X11; Linux x86_64; rv:105.0) Gecko/20100101 Firefox/105.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0  uacq
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0,gzip(gfe)
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/120.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/127.0
+Mozilla/5.0 (X11; Linux x86_64; rv:112.0) Gecko/20100101 Firefox/115.0
+Mozilla/5.0 (X11; Linux x86_64; rv:115.0) Gecko/20100101 Firefox/115.0
+Mozilla/5.0 (X11; Linux x86_64; rv:115.0) Gecko/20100101 Firefox/115.13.0
+Mozilla/5.0 (X11; Linux x86_64; rv:115.0) Gecko/240101 Firefox/115.0
+Mozilla/5.0 (X11; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0.
+Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0,gzip(gfe)
+Mozilla/5.0 (X11; Linux x86_64; rv:199.0) Gecko/20100101 Firefox/199.0
+Mozilla/5.0 (X11; Linux x86_64; rv:30.0) Gecko/20100101 Firefox/30.0
+Mozilla/5.0 (X11; Linux x86_64; rv:45.0; WebThumbnailer) Gecko/20100101 Firefox/45.0
+Mozilla/5.0 (X11; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0
+Mozilla/5.0 (X11; Linux x86_64; rv:82.1) Gecko/20100101 Firefox/82.1
+Mozilla/5.0 (X11; Linux x86_64; rv:91.0; b:"3l~BfQG*%zyxQ9LmBYbO") Gecko/20100101 Firefox/91.0
+Mozilla/5.0 (X11; Linux; rv:127.0esr) Gecko/20162519 Firefox/127.0esr
+Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.0.1) Gecko/20020918
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.10) Gecko/20051111 Firefox/1.0.6
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.6) Gecko/20070802 SeaMonkey/1.1.4
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.11) Gecko/2009060309 Ubuntu/9.10 (karmic) Firefox/3.0.11
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.16) Gecko/20110323 Ubuntu/9.10 (karmic) Firefox/3.6.16 FirePHP/0.5
+Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.8.0.7) Gecko/20060830 Firefox/1.5.0.7 (Debian-1.5.dfsg+1.5.0.7-1~bpo.1)
+Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.9.0.10) Gecko/2009042513 Linux Mint/5 (Elyssa) Firefox/3.0.10
+Mozilla/5.0 (X11; U; Linux i686; it; rv:1.9.2.3) Gecko/20100406 Firefox/3.6.3 (Swiftfox)
+Mozilla/5.0 (X11; U; Linux i686; pl-PL; rv:1.9.2a1pre) Gecko/20090128 Kubuntu/8.10 (intrepid) Minefield/3.2a1pre
+Mozilla/5.0 (X11; U; Linux i686; pl; rv:1.8.0.1) Gecko/20060124 Firefox/1.5.0.1
+Mozilla/5.0 (X11; U; Linux ppc; da-DK; rv:1.7.12) Gecko/20051010 Firefox/1.0.7 (Ubuntu package 1.0.7)
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.6) Gecko/2009012700 SUSE/3.0.6-1.4 Firefox/3.0.6
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.6) Gecko/20100117 Gentoo Firefox/3.5.6
+Mozilla/5.0 (X11; U; Linux x86_64; nl-NL; rv:1.7.6) Gecko/20050318 Firefox/1.0.2
+Mozilla/5.0 (X11;U;Linux i686;en-US;rv:1.8.1) Gecko/2006101022 Firefox/2.0
+mozilla/5.0 (linux; linux i670 ) gecko/20130401 firefox/62.8
+mozilla/5.0 (linux; u; linux i656 ; en-us) gecko/20100101 firefox/58.9
+mozilla/5.0 (u; linux i686 ) gecko/20100101 firefox/58.8
+Mozilla/5.0 (Wayland; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Fennec/2.0.1
+Mozilla/5.0 (X11; Linux i686 on x86_64; rv:52.0) Gecko/20100101 Firefox/52.0 SeaMonkey/2.49.4
+Mozilla/5.0 (X11; Linux i686; rv:109.0) Gecko/20100101 Firefox/120.0
+Mozilla/5.0 (X11; Linux i686; rv:115.0) Gecko/20100101 Firefox/115.0
+Mozilla/5.0 (X11; Linux i686; rv:49.0) Gecko/20100101 Firefox/49.0
+Mozilla/5.0 (X11; Linux ppc; rv:5.0) Gecko/20100101 Firefox/5.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/122.0
+Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/125.0
+Mozilla/5.0 (X11; Linux x86_64; rv:117.0) Gecko/20100101 Firefox/117.0
+Mozilla/5.0 (X11; Linux x86_64; rv:2.0.1) Gecko/20110506 Firefox/4.0.1
+Mozilla/5.0 (X11; Linux x86_64; rv:2.0b4) Gecko/20100818 Firefox/4.0b4
+Mozilla/5.0 (X11; Linux x86_64; rv:2.2a1pre) Gecko/20100101 Firefox/4.2a1pre
+Mozilla/5.0 (X11; Linux x86_64; rv:28.0) Gecko/20100101  Firefox/28.0
+Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0
+Mozilla/5.0 (X11; Linux x86_64; rv:60.0) Gecko/20100101 Firefox/60.0
+Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101 Firefox/68.0
+Mozilla/5.0 (X11; Linux x86_64; rv:88.0) Gecko/20100101 Firefox/88.0
+Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0
+Mozilla/5.0 (X11; Linux; rv:127.0esr) Gecko/20172819 Firefox/127.0esr
+Mozilla/5.0 (X11; U; Linux AMD64; en-US; rv:1.9.2.3) Gecko/20100403 Ubuntu/10.10 (maverick) Firefox/3.6.3
+Mozilla/5.0 (X11; U; Linux MIPS32 1074Kf CPS QuadCore; en-US; rv:1.9.2.13) Gecko/20110103 Fedora/3.6.13-1.fc14 Firefox/3.6.13
+Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9.1.1) Gecko/20090722 Gentoo Firefox/3.5.1
+Mozilla/5.0 (X11; U; Linux i686; de; rv:1.9.2.13) Gecko/20101209 CentOS/3.6-2.el5.centos Firefox/3.6.13
+Mozilla/5.0 (X11; U; Linux i686; en-GB; rv:2.0) Gecko/20110404 Fedora/16-dev Firefox/4.0
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:0.9.3) Gecko/20010801
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.3) Gecko/20030314
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.3) Gecko/20030326
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8) Gecko/20060111 Firefox/1.5
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.3) Gecko/20060523 Ubuntu/dapper Firefox/1.5.0.3
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.7) Gecko/20061014 Firefox/1.5.0.7
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.16) Gecko/20120421 Firefox/11.0
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.16) Gecko/20120421 Gecko Firefox/11.0
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.14pre) Gecko/20110105 Firefox/3.6.14pre
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.7) Gecko/20100726 CentOS/3.6-3.el5.centos Firefox/3.6.7
+Mozilla/5.0 (X11; U; Linux i686; fr; rv:1.9.2.2) Gecko/20100316 Firefox/3.6.2
+Mozilla/5.0 (X11; U; Linux i686; it; rv:1.8.1.3) Gecko/20070406 Firefox/2.0.0.3
+Mozilla/5.0 (X11; U; Linux i686; nl; rv:1.8.0.4) Gecko/20060608 Ubuntu/dapper-security Firefox/1.5.0.4
+Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.8.1.12) Gecko/20080203 SUSE/2.0.0.12-6.1 Firefox/2.0.0.12
+Mozilla/5.0 (X11; U; Linux x86_64; en-GB; rv:1.9.2.13) Gecko/20101206 Ubuntu/9.10 (karmic) Firefox/3.6.13
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.8.1.3) Gecko/20061201 Firefox/2.0.0.3 (Ubuntu-feisty)
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.12) Gecko/2009070811 Ubuntu/9.04 (jaunty) Firefox/3.0.12
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.17) Gecko/20110123 SeaMonkey/2.0.12
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2) Gecko/20100130 Gentoo Firefox/3.6
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.13) Gecko/20101219 Gentoo Firefox/3.6.13
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.20) Gecko/20110804 Red Hat/3.6-2.el5 Firefox/3.6.20
+Mozilla/5.0 (X11; U; Linux x86_64; fr; rv:1.9.2.13) Gecko/20101203 Firefox/3.6.13
+Mozilla/5.0 (X11; U; Linux x86_64; hu; rv:1.8.1.14) Gecko/20080416 Fedora/2.0.0.14-1.fc7 Firefox/2.0.0.14
+Mozilla/5.0 (X11; U; Linux x86_64; it; rv:1.9.2.24) Gecko/20111101 SUSE/3.6.24-0.2.1 Firefox/3.6.24
