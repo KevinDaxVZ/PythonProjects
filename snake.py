@@ -1,3 +1,5 @@
+#v1, algo simple y rapido, snake de terminal
+
 import random
 import time
 import msvcrt
